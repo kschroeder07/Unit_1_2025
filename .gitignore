@@ -1,8 +1,7 @@
 # Compiled class files
 *.class
 
-# Package files
-*.jar
+# Package files (excluding JUnit dependencies in lib/)
 *.war
 *.ear
 
